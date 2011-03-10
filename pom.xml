@@ -11,7 +11,7 @@
 		<version>2.0-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>ij-visad</artifactId>
+	<artifactId>visad_plugin</artifactId>
 
 	<name>VisAD plugin for ImageJ</name>
 	<description>A package for displaying ImageJ images using VisAD in a freeform way.</description>
